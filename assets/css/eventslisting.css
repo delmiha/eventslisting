@@ -1,0 +1,5 @@
+.el-event-archive{ list-style:none; padding:0; display:grid; gap:16px; }
+.el-event-item{ padding:16px; border:1px solid #ddd; border-radius:12px; }
+.el-event-item .se-event-meta{ display:flex; gap:12px; flex-wrap:wrap; margin:.5rem 0; }
+.el-event-item .button{ display:inline-block; padding:.5rem .75rem; border:1px solid #ccc; border-radius:8px; text-decoration:none; }
+.single-event .el-event-banner{ width:100%; height:auto; border-radius:12px; margin:.5rem 0 1rem; }
